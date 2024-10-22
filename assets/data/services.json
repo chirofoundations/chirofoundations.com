@@ -1,0 +1,32 @@
+[
+  {
+    "name": "History taking",
+    "imageSrc": "https://tailwindui.com/img/ecommerce/icons/icon-shipping-simple.svg",
+    "description": "Our health problems are an accumulation of all things life puts us through. By asking the right questions, our chiropractors will piece together the puzzle that explains what caused said health issue, and decide the best way to approach your case. A complete health and medical history helps the chiropractor and the patient understand what may be the root cause of the problem so that it can be avoided down the road of recovery."
+  },
+  {
+    "name": "Instrumentation (Nervoscope)",
+    "imageSrc": "https://tailwindui.com/img/ecommerce/icons/icon-warranty-simple.svg",
+    "description": "With any injury, inflammation is a common response. Injuries in the spine causes inflammation and pressure on the nerves which can lead to symptoms depending on which nerve root is aﬀected. The chiropractor will use a device called the Nervoscope to detect this inflammation to help point us to the direction of the injured segment."
+  },
+  {
+    "name": "Visualization",
+    "imageSrc": "https://tailwindui.com/img/ecommerce/icons/icon-exchange-simple.svg",
+    "description": "From the moment the patient steps into the treatment room, the chiropractor has been observing multiple aspects of him or her. How they walk, how they sit, if they’re leaning to one side, etc. This is another step in collecting information about where the actual problem is. By observing the spine, the chiropractor is able to pick up imbalances of muscle, and the general symmetry of the patient’s posture."
+  },
+  {
+    "name": "Palpation",
+    "imageSrc": "https://tailwindui.com/img/ecommerce/icons/icon-shipping-simple.svg",
+    "description": "The spine consists of multiple segments, and each of these segments are meant to move a certain degree and direction. However, with a misalignment, this movement is limited, and with it usually comes with the evidence of swelling e.g. pain, tightness. Palpation involves the chiropractor feeling and identifying each individual segment in the spine and pelvis and determining which bones doesn’t function as they should."
+  },
+  {
+    "name": "X-Rays Analysis",
+    "imageSrc": "https://tailwindui.com/img/ecommerce/icons/icon-warranty-simple.svg",
+    "description": "Every person in the world is unique in their own way, and their spine and joints are no diﬀerent. A Gonstead Chiropractor will almost always get a full spine X-Ray of their patients, as it helps us complete the puzzle that is your health togetherti how long it has been, how severe or chronic it is. By analyzing your X-Ray, the chiropractor can determine whether it is safe to adjust you, and what direction to push the bones for the most optimal results. To see is to know, not to see is to guess. In Chiropractic Foundations, we will not guess with your health."
+  },
+  {
+    "name": "Chiropractic Adjustment",
+    "imageSrc": "https://tailwindui.com/img/ecommerce/icons/icon-exchange-simple.svg",
+    "description": "Now we have all the information of what’s going on, it’s time to complete the picture. The Gonstead Chiropractic adjustment involves the chiropractor pushing the misaligned bones back to where they need to be to be functioning optimally. No more, no less. The Foundations of your health."
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Eugene Yong",
+    "role": "Founder",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
+      "width": 1024,
+      "height": 1024
+    },
+    "bio": "Any stable structure first starts with a stable foundation, and the spine is no different. Due to the fear of hurting themselves, many people have had the idea that their entire lives have to be altered. Eugene, through the utilization of Gonstead Chiropractic hopes to alleviate that fear, and help them rediscover the potential of their bodies. Through genuine and meticulous care, he wants to help the world find, fix and also understand the pains and strains of everyday life.",
+    "credentials": ["Bachelor in Science (Hons) Chiropractic", "Member of the Gonstead Chiropractic Society (Aus)"]
+  }
+]
